@@ -1,0 +1,21 @@
+@media (min-width: 769px) {
+html {
+	background-color: rgba(192,192,192,0.9);
+	margin: 0px auto;
+}
+body {
+	width: 88.2%;
+	max-width: 800px;
+	padding-left: 0.9%;
+	padding-right: 0.9%;
+	margin: auto;
+	clear: none;
+	float: none;
+	margin-left: auto;
+	background-color: rgba(192,192,192,0.3);
+	
+}
+footer {
+	font-size: 1.2em;
+}
+}
